@@ -29,10 +29,10 @@ python main.py
 
 Siga o menu interativo para gerenciar a lista.
 
-Observações
 
+> ⚠️ **Observações**:
 A lista possui tamanho limitado (por padrão, 5 elementos).
-
 É possível reiniciar a lista a qualquer momento pelo menu.
-
 Entrada de dados inválida ou posições fora do limite são tratadas com mensagens de alerta.
+
+---
