@@ -26,9 +26,30 @@ Execute o programa:
 ```
 python main.py
 ```
-
 Siga o menu interativo para gerenciar a lista.
 
+## Estrutura da Pasta
+```
+lista_produtos_functions/
+├── __pycache__/
+│   └── menu.cpython-311.pyc
+├── functions/
+│   ├── __init__
+│   ├── adicionar.py
+│   ├── buscar.py
+│   ├── exibir_item.py
+│   ├── mostrar.py
+│   ├── ordenar.py
+│   └── __pycache__/
+│       ├── __init__.cpython-311.pyc
+│       ├── adicionar.cpython-311.pyc
+│       ├── buscar.cpython-311.pyc
+│       ├── exibir_item.cpython-311.pyc
+│       ├── mostrar.cpython-311.pyc
+│       └── ordenar.cpython-311.pyc
+├── main.py
+└── menu.py
+```
 
 > ⚠️ **Observações**:
 A lista possui tamanho limitado (por padrão, 5 elementos).
